@@ -15,7 +15,7 @@ A collection of Vim commands that every developer should know.
 ---
 
 ## Movement
-
+|---------------|-------------------------|
 | h / j / k / l | move left down up right |
 | w | next word |
 | b | previous word |
@@ -26,7 +26,7 @@ A collection of Vim commands that every developer should know.
 ---
 
 ## Editing
-
+|---|-----------------|
 | d | delete (dw, dd) |
 | y | yank/copy (yy, yw, ..) |
 | p | paste |
@@ -42,14 +42,14 @@ A collection of Vim commands that every developer should know.
 ---
 
 ## Search
-
+|----|--------------|
 | /X | search for X |
 | N / n | next and previous result |
 
 ---
 
 ## Save & Quit
-
+|----|------|
 | :w | Save |
 | :q | quit |
 | :wq | Save and quit |
